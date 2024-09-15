@@ -1,0 +1,263 @@
+ <section id="order5" class="reviews_section">
+            <h2 class="title"><span>ВІДГУКИ</span>НАШИХ ПОКУПЦІВ</h2>
+            <div class="wtsp_rev owl-carousel owl-loaded">
+
+                
+
+                
+
+                
+
+                
+
+
+            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-880px, 0px, 0px); transition: all; width: 3520px;"><div class="owl-item cloned" style="width: 440px;"><div class="wtsp_item">
+                    <div class="info clearfix">
+                        <img src="./одіяло_files/90.jpg" alt="">
+                        <div class="text">
+                            <p>Шишло Олександра</p>
+                            <small>був(-ла) вчора о 19:14</small>
+                        </div>
+                    </div>
+                    <div class="date">
+                        <span>Вчора</span>
+                    </div>
+                    <div class="message_container clearfix">
+                        <div class="message client">
+                            <p>
+                                Наші діти обожнюють космос, тому цей нічник став ідеальним подарунком для них. Тепер у
+                                нас вдома своя маленька планетарія. Дякуємо за такий чудовий продукт!
+                            </p>
+                            <img src="./одіяло_files/vid3.webp" alt="">
+                            <div class="time">17:01</div>
+                        </div>
+                        <div class="message author">
+                            <p>
+                                Добрий вечір, Олександра! Ми дуже раді, що Ви залишилися задоволені! Дякуємо за відгук😍
+                            </p>
+                            <div class="time">17:12</div>
+                        </div>
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 440px;"><div class="wtsp_item">
+                    <div class="info clearfix">
+                        <img src="./одіяло_files/ava4.webp" alt="">
+                        <div class="text">
+                            <p>Дричик Іван</p>
+                            <small>був(-ла) сьогодні о 12:19</small>
+                        </div>
+                    </div>
+                    <div class="date">
+                        <span>Вчора</span>
+                    </div>
+                    <div class="message_container clearfix">
+                        <div class="message client">
+                            <p>
+                                Не можу відірватися від цього проектора! Він створює таку атмосферу в кімнаті, що просто
+                                неможливо не захоплюватися. І так, він дійсно великий, більший, ніж я думав!
+                            </p>
+                            <img src="./одіяло_files/vid4.webp" alt="">
+                            <div class="time">11:01</div>
+                        </div>
+                        <div class="message author">
+                            <p>
+                                Доброго дня, Іван! Ми дуже раді, що Ви залишилися задоволені! Дякуємо за відгук😍
+                            </p>
+                            <div class="time">11:12</div>
+                        </div>
+                    </div>
+                </div></div><div class="owl-item active" style="width: 440px;"><div class="wtsp_item">
+                    <div class="info clearfix">
+                        <img src="./одіяло_files/ava1.webp" alt="">
+                        <div class="text">
+                            <p>Філюта Юлія</p>
+                            <small>був(-ла) вчора о 12:10</small>
+                        </div>
+                    </div>
+                    <div class="date">
+                        <span>Вчора</span>
+                    </div>
+                    <div class="message_container clearfix">
+                        <div class="message client">
+                            <p>
+                                Це просто магічний пристрій! Я його використовую не тільки для створення романтичної
+                                атмосфери, але і для релаксації. Перед сном, я вмикаю проектор і насолоджуюся спокійним
+                                зоряним небом. Рекомендую!
+                            </p>
+                            <img src="./одіяло_files/vid1.webp" alt="">
+                            <div class="time">12:30</div>
+                        </div>
+                        <div class="message author">
+                            <p>
+                                Доброго дня, Юлія! Ми дуже раді, що Ви залишилися задоволені! Дякуємо за відгук😍
+                            </p>
+                            <div class="time">12:45</div>
+                        </div>
+                    </div>
+                </div></div><div class="owl-item" style="width: 440px;"><div class="wtsp_item">
+                    <div class="info clearfix">
+                        <img src="./одіяло_files/ava3.webp" alt="">
+                        <div class="text">
+                            <p>Щур Ігор</p>
+                            <small>був(-ла) сьогодні о 09:13</small>
+                        </div>
+                    </div>
+                    <div class="date">
+                        <span>Вчора</span>
+                    </div>
+                    <div class="message_container clearfix">
+                        <div class="message client">
+                            <p>
+                                Мій син завжди мріяв стати астронавтом. Завдяки цьому нічнику його мрія стала трохи
+                                ближче. Він вмикає його кожен вечір і ми разом спостерігаємо за зірками. Чудова покупка!
+                            </p>
+                            <img src="./одіяло_files/vid2.webp" alt="">
+                            <div class="time">16:45</div>
+                        </div>
+                        <div class="message author">
+                            <p>
+                                Доброго дня, Ігор! Дякуємо Вам за відгук. Замовляйте ще😍
+                            </p>
+                            <div class="time">16:47</div>
+                        </div>
+                    </div>
+                </div></div><div class="owl-item" style="width: 440px;"><div class="wtsp_item">
+                    <div class="info clearfix">
+                        <img src="./одіяло_files/ava2.webp" alt="">
+                        <div class="text">
+                            <p>Шишло Олександра</p>
+                            <small>був(-ла) вчора о 19:14</small>
+                        </div>
+                    </div>
+                    <div class="date">
+                        <span>Вчора</span>
+                    </div>
+                    <div class="message_container clearfix">
+                        <div class="message client">
+                            <p>
+                                Наші діти обожнюють космос, тому цей нічник став ідеальним подарунком для них. Тепер у
+                                нас вдома своя маленька планетарія. Дякуємо за такий чудовий продукт!
+                            </p>
+                            <img src="./одіяло_files/vid3.webp" alt="">
+                            <div class="time">17:01</div>
+                        </div>
+                        <div class="message author">
+                            <p>
+                                Добрий вечір, Олександра! Ми дуже раді, що Ви залишилися задоволені! Дякуємо за відгук😍
+                            </p>
+                            <div class="time">17:12</div>
+                        </div>
+                    </div>
+                </div></div><div class="owl-item" style="width: 440px;"><div class="wtsp_item">
+                    <div class="info clearfix">
+                        <img src="./одіяло_files/ava4.webp" alt="">
+                        <div class="text">
+                            <p>Дричик Іван</p>
+                            <small>був(-ла) сьогодні о 12:19</small>
+                        </div>
+                    </div>
+                    <div class="date">
+                        <span>Вчора</span>
+                    </div>
+                    <div class="message_container clearfix">
+                        <div class="message client">
+                            <p>
+                                Не можу відірватися від цього проектора! Він створює таку атмосферу в кімнаті, що просто
+                                неможливо не захоплюватися. І так, він дійсно великий, більший, ніж я думав!
+                            </p>
+                            <img src="./одіяло_files/vid4.webp" alt="">
+                            <div class="time">11:01</div>
+                        </div>
+                        <div class="message author">
+                            <p>
+                                Доброго дня, Іван! Ми дуже раді, що Ви залишилися задоволені! Дякуємо за відгук😍
+                            </p>
+                            <div class="time">11:12</div>
+                        </div>
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 440px;"><div class="wtsp_item">
+                    <div class="info clearfix">
+                        <img src="./одіяло_files/ava1.webp" alt="">
+                        <div class="text">
+                            <p>Філюта Юлія</p>
+                            <small>був(-ла) вчора о 12:10</small>
+                        </div>
+                    </div>
+                    <div class="date">
+                        <span>Вчора</span>
+                    </div>
+                    <div class="message_container clearfix">
+                        <div class="message client">
+                            <p>
+                                Це просто магічний пристрій! Я його використовую не тільки для створення романтичної
+                                атмосфери, але і для релаксації. Перед сном, я вмикаю проектор і насолоджуюся спокійним
+                                зоряним небом. Рекомендую!
+                            </p>
+                            <img src="./одіяло_files/vid1.webp" alt="">
+                            <div class="time">12:30</div>
+                        </div>
+                        <div class="message author">
+                            <p>
+                                Доброго дня, Юлія! Ми дуже раді, що Ви залишилися задоволені! Дякуємо за відгук😍
+                            </p>
+                            <div class="time">12:45</div>
+                        </div>
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 440px;"><div class="wtsp_item">
+                    <div class="info clearfix">
+                        <img src="./одіяло_files/ava3.webp" alt="">
+                        <div class="text">
+                            <p>Щур Ігор</p>
+                            <small>був(-ла) сьогодні о 09:13</small>
+                        </div>
+                    </div>
+                    <div class="date">
+                        <span>Вчора</span>
+                    </div>
+                    <div class="message_container clearfix">
+                        <div class="message client">
+                            <p>
+                                Мій син завжди мріяв стати астронавтом. Завдяки цьому нічнику його мрія стала трохи
+                                ближче. Він вмикає його кожен вечір і ми разом спостерігаємо за зірками. Чудова покупка!
+                            </p>
+                            <img src="./одіяло_files/vid2.webp" alt="">
+                            <div class="time">16:45</div>
+                        </div>
+                        <div class="message author">
+                            <p>
+                                Доброго дня, Ігор! Дякуємо Вам за відгук. Замовляйте ще😍
+                            </p>
+                            <div class="time">16:47</div>
+                        </div>
+                    </div>
+                </div></div></div></div><div class="owl-nav"><div class="owl-prev"></div><div class="owl-next"></div></div><div class="owl-dots disabled"></div></div>
+        </section>
+
+
+
+
+
+        
+<body id="home">
+    <script src="./одіяло_files/558653029605185" async=""></script><script async="" src="./одіяло_files/fbevents.js.завантаження"></script><script type="application/ld+json" id="mySchema">{"@context":"https://schema.org/","@type":"Offer","sku":2708,"name":"Ночник - проектор звездного неба - Астронавт","category":"Товары для Дома","availability":"https://schema.org/InStock","price":499,"priceCurrency":"UAH"}</script>
+    <header class="active">
+        <a class="logo" href="https://lkak-bga-nightskyprojector.neli.space/site/nightskyprojector3_ua/#">
+        </a>
+        <svg class="nav-button" id="hamburger" fill="none" viewBox="0 0 52 23">
+            <path stroke="#fff" stroke-linecap="round" stroke-width="3" d="M25 1.5h28M25  21.5h28M25 11.5h28"></path>
+        </svg>
+    </header>
+
+
+
+
+      <br>
+        <div class="mobile-menu__bottom">
+
+            <div class="footer__column" style="text-align: center; color:white">
+
+            </div>
+    </div></nav>
+
+    <br>
+    <br>
+    <br>
